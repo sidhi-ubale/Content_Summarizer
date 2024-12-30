@@ -1,0 +1,6 @@
+Flask==2.3.2
+gunicorn==21.3.0
+requests==2.31.0
+sqlite3  # Part of the Python standard library; included for clarity.
+random  # Included as it's part of your code logic but already part of Python.
+datetime  # Used for handling timestamps; part of Python standard library.
